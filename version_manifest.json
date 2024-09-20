@@ -1,1 +1,10 @@
+{
+  "minecraft_versions": [
+    {
+      "id": "1.20.1",
+      "url": "https://vasdz.github.io/Minecraft-launcher-updates/versions/minecraft/1.20.1/minecraft.jar",
+      "release_date": "2023-10-01"
+    }
+  ]
+}
 
